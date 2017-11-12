@@ -19,6 +19,7 @@
 - You will be asked to accept the license agreement.Check I accept the agreement radio button and Click Next.
 - Select the destination folder or leave the default folder which is set to C:\Program Files\SmartBear\SoapUI-5.3.0. Click Next.
 - Click Next for Installing Hermes.
+- Accept the liscense agreement for installing Hermes by clicking the radio button.Click Next.
 
 ## Resources
 
