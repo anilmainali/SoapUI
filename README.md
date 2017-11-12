@@ -26,6 +26,9 @@
 - Installation starts
 - Click Finish.
 - Released notes will be presented.After reading close the document by clicking x.
+- Click Yes or No according to your preference.
+- Sign up for promotions by entering your name and email address or Click Skip.
+- Congratulations! you have successfully installed SoapUI on your windows 7.This is the SoapUI interface.
 
 ## Resources
 
