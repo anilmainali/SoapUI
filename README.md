@@ -14,6 +14,6 @@
 - Once the installer is downloaded, Double click on the installer.
 - Click Run.
 - Prepairing to install screen appears.
-
+- Click Yes for User Account Control.
 ## Resources
 
