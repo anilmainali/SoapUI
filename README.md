@@ -24,6 +24,8 @@
 - Select the Start Menu Folder and Click Next.
 - Depending on your choice, check or uncheck for create a Desktop Menu and click Next.
 - Installation starts
+- Click Finish.
+- Released notes will be presented.After reading close the document by clicking x.
 
 ## Resources
 
