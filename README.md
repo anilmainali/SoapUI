@@ -20,6 +20,7 @@
 - Select the destination folder or leave the default folder which is set to C:\Program Files\SmartBear\SoapUI-5.3.0. Click Next.
 - Click Next for Installing Hermes.
 - Accept the liscense agreement for installing Hermes by clicking the radio button.Click Next.
+- Select the destination folder for SoapUI tutorial and Click Next.
 
 ## Resources
 
