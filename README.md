@@ -22,6 +22,8 @@
 - Accept the liscense agreement for installing Hermes by clicking the radio button.Click Next.
 - Select the destination folder for SoapUI tutorial and Click Next.
 - Select the Start Menu Folder and Click Next.
+- Depending on your choice, check or uncheck for create a Desktop Menu and click Next.
+- Installation starts
 
 ## Resources
 
