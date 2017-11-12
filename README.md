@@ -15,5 +15,8 @@
 - Click Run.
 - Prepairing to install screen appears.
 - Click Yes for User Account Control.
+- Click Next on the Starting screen.
+- You will be asked to accept the license agreement.Check I accept the agreement radio button and Click Next.
+- 
 ## Resources
 
